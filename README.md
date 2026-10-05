@@ -1,2 +1,1 @@
-Main branch version
-GitHub Collaboration Practice
+Final combined version from main and feature
