@@ -1,2 +1,2 @@
-# team1-collab
+Main branch version
 GitHub Collaboration Practice
